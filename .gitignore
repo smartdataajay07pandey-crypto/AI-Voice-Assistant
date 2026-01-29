@@ -2,3 +2,8 @@ venv/
 .venv
 .vscode
 .env
+__pycache__/
+.venv/
+.env
+*.pyc
+database/
